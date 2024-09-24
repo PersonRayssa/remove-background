@@ -1,2 +1,2 @@
 # remove-background
-Remover fundo de imagem
+Remove fundo de imagem utilizando a biblioteca rembg.
